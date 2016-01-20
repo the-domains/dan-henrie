@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-20T23:55:14.515Z'
+datePublished: '2016-01-20T23:55:14.621Z'
 dateModified: '2016-01-20T23:55:10.166Z'
 title: About Dan Henrie
 author: []
