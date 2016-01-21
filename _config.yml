@@ -21,7 +21,7 @@ color:
     - '#033a51'
     - '#011d28'
     - '#046892'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0
   saturation: 1
   rhythmicContrast: 0
