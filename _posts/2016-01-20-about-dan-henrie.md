@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-20T23:55:14.621Z'
-dateModified: '2016-01-20T23:55:10.166Z'
+description: Learn more about Dan Henrie
+datePublished: '2016-01-21T00:02:53.360Z'
+dateModified: '2016-01-21T00:02:37.650Z'
 title: About Dan Henrie
 author: []
 sourcePath: _posts/2016-01-20-about-dan-henrie.md
