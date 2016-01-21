@@ -2,22 +2,25 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.constructorator.com'
   name: Constructorator
-  favicon: 'http://www.constructorator.com/favicon.ico'
   domain: www.constructorator.com
+  url: 'http://www.constructorator.com'
+  favicon: 'http://www.constructorator.com/favicon.ico'
 keywords: []
 description: 'Constructorator is a website dedicated to helping construction field hands learn, grow, collaborate and share information.'
 app_links: []
 isBasedOnUrl: 'http://www.constructorator.com/'
 title: Built for Construction Leaders.
-datePublished: '2016-01-21T00:17:00.414Z'
-dateModified: '2016-01-20T23:57:12.372Z'
+datePublished: '2016-01-21T00:18:33.943Z'
+dateModified: '2016-01-21T00:18:19.256Z'
 sourcePath: _posts/2016-01-21-built-for-construction-leaders.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
