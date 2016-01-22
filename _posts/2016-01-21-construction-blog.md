@@ -16,8 +16,8 @@ keywords:
   - manpower
   - need
 description: 'Concrete construction blog to help mentor and train craft workers in the Construction Industry. Post about construction processes, leadership, information and managing, to help field construction hands learn and grow.'
-datePublished: '2016-01-22T01:44:51.598Z'
-dateModified: '2016-01-22T01:44:50.360Z'
+datePublished: '2016-01-22T01:45:50.971Z'
+dateModified: '2016-01-22T01:45:48.823Z'
 author: []
 related: []
 app_links: []
