@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.constructorator.com'
-  name: Constructorator
-  favicon: 'http://www.constructorator.com/favicon.ico'
-  domain: www.constructorator.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - crew
   - foreman
@@ -18,17 +16,21 @@ keywords:
   - manpower
   - need
 description: 'Concrete construction blog to help mentor and train craft workers in the Construction Industry. Post about construction processes, leadership, information and managing, to help field construction hands learn and grow.'
-inLanguage: en
+datePublished: '2016-01-22T01:44:51.598Z'
+dateModified: '2016-01-22T01:44:50.360Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.constructorator.com/blog'
 title: Construction Blog
-datePublished: '2016-01-21T00:41:45.384Z'
-dateModified: '2016-01-21T00:20:39.082Z'
 sourcePath: _posts/2016-01-21-construction-blog.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Constructorator
+  domain: www.constructorator.com
+  url: 'http://www.constructorator.com'
+  favicon: 'http://www.constructorator.com/favicon.ico'
+url: construction-blog/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
