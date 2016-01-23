@@ -17,7 +17,7 @@ keywords:
   - coordination
   - foreman
 description: "Dan Henrie's profile on LinkedIn"
-datePublished: '2016-01-23T16:57:10.217Z'
+datePublished: '2016-01-23T16:57:10.264Z'
 dateModified: '2016-01-23T14:56:35.826Z'
 author: []
 related: []
