@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "What's Dan up to currently"
-datePublished: '2016-01-23T15:36:41.428Z'
+datePublished: '2016-01-23T15:36:41.440Z'
 dateModified: '2016-01-23T15:36:38.529Z'
 title: Dan Henrie
 author: []
