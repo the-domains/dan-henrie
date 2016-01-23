@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Free Mobile Daily Forms for construction Foreman
-datePublished: '2016-01-23T17:14:18.693Z'
+datePublished: '2016-01-23T17:14:18.749Z'
 dateModified: '2016-01-23T17:14:14.855Z'
 author: []
 related: []
