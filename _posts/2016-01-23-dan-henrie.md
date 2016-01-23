@@ -1,24 +1,25 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-23T15:28:38.316Z'
-dateModified: '2016-01-23T15:28:21.039Z'
+description: "What's Dan up to currently"
+datePublished: '2016-01-23T15:36:41.428Z'
+dateModified: '2016-01-23T15:36:38.529Z'
 title: Dan Henrie
 author: []
+sourcePath: _posts/2016-01-23-dan-henrie.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-dan-henrie.md
-published: true
-_type: Blurb
+url: dan-henrie/index.html
+_type: Article
 
 ---
 # Dan Henrie
