@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T14:12:39.265Z'
-dateModified: '2016-01-23T14:12:11.304Z'
-title: Currently
+datePublished: '2016-01-23T14:26:04.086Z'
+dateModified: '2016-01-23T14:25:51.027Z'
+title: How Many Questions Do You Answer in a Day?
 author: []
+sourcePath: _posts/2016-01-23-currently.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-currently.md
-published: true
-_type: Blurb
+url: how-many-questions-do-you-answer-in-a-day/index.html
+_type: Article
 
 ---
-This is where I keep current c
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba8e32c6-d7d3-4b17-a077-46e40493c7bc.png)
+![How many questions do you answer in a day?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c92d28d-49c2-4688-870c-9cacc7244487.jpg)
