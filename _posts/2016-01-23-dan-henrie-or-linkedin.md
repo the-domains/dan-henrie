@@ -17,8 +17,8 @@ keywords:
   - coordination
   - foreman
 description: "Dan Henrie's profile on LinkedIn"
-datePublished: '2016-01-23T14:54:39.932Z'
-dateModified: '2016-01-23T14:54:34.787Z'
+datePublished: '2016-01-23T16:57:10.179Z'
+dateModified: '2016-01-23T14:56:35.826Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>LinkedIn</h1><p>Working closely with all self-performed work teams in observing, recommending and coaching safe productive performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08279c751a3727984ce465812c33d483d26f9718.jpg" /></article>
+<article style=""><h1>LinkedIn</h1><p>Working closely with all self-performed work teams in observing, recommending and coaching safe productive performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88568688e62202e896fd6659d081a30fa24659ba.jpg" /></article>
 
 * <button style=""><p data-grid-id="c80b7d1a-32bb-42ee-9a96-797a0b7a4839"></p></button>
