@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Q web based weekly safety inspection form for construction foreman.
-datePublished: '2016-01-23T17:10:18.923Z'
+datePublished: '2016-01-23T17:10:18.938Z'
 dateModified: '2016-01-23T16:57:27.120Z'
 author: []
 related: []
