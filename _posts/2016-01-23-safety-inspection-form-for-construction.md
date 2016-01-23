@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.constructorator.com'
-  name: Constructorator
-  favicon: 'http://www.constructorator.com/favicon.ico'
-  domain: www.constructorator.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
 keywords: []
 description: Q web based weekly safety inspection form for construction foreman.
+datePublished: '2016-01-23T17:10:18.923Z'
+dateModified: '2016-01-23T16:57:27.120Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.constructorator.com/weekly-safety-inspection.html'
 title: Safety Inspection Form for Construction
-datePublished: '2016-01-23T16:53:49.081Z'
-dateModified: '2016-01-23T14:35:57.467Z'
+authors: []
+publisher:
+  name: Constructorator
+  domain: www.constructorator.com
+  url: 'http://www.constructorator.com'
+  favicon: 'http://www.constructorator.com/favicon.ico'
 sourcePath: _posts/2016-01-23-safety-inspection-form-for-construction.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+url: safety-inspection-form-for-construction/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
