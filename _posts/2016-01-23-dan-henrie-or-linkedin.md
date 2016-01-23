@@ -1,7 +1,8 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.linkedin.com/in/danhenrie?trk=hp-identity-name'
 inLanguage: en
 starred: false
 keywords:
@@ -15,24 +16,25 @@ keywords:
   - performed
   - coordination
   - foreman
-description: 'Working closely with all self-performed work teams in observing, recommending and coaching safe productive performance.'
-datePublished: '2016-01-23T14:43:53.353Z'
-dateModified: '2016-01-23T14:43:36.172Z'
+description: "Dan Henrie's profile on LinkedIn"
+datePublished: '2016-01-23T14:54:28.530Z'
+dateModified: '2016-01-23T14:53:13.049Z'
 author: []
 related: []
 app_links: []
-title: 'Dan Henrie | LinkedIn'
+title: LinkedIn
+sourcePath: _posts/2016-01-23-dan-henrie-or-linkedin.md
+published: true
 authors: []
 publisher:
   name: LinkedIn
   domain: www.linkedin.com
   url: 'http://linkedin.com'
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
-sourcePath: _posts/2016-01-23-dan-henrie-or-linkedin.md
-published: true
-url: dan-henrie-or-linkedin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Dan Henrie | LinkedIn</h1><p>Working closely with all self-performed work teams in observing, recommending and coaching safe productive performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4da1cddebbb6dd63d1370a0f6b59b9eed670193.jpg" /></article>
+<article style=""><h1>LinkedIn</h1><p>Working closely with all self-performed work teams in observing, recommending and coaching safe productive performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08279c751a3727984ce465812c33d483d26f9718.jpg" /></article>
+
+* <button style=""><p data-grid-id="c80b7d1a-32bb-42ee-9a96-797a0b7a4839"></p></button>
