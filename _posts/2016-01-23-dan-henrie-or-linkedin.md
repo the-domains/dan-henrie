@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.linkedin.com/in/danhenrie?trk=hp-identity-name'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - coordination
   - foreman
 description: "Dan Henrie's profile on LinkedIn"
-datePublished: '2016-01-23T17:19:53.540Z'
-dateModified: '2016-01-23T17:19:47.917Z'
+datePublished: '2016-01-23T18:29:35.738Z'
+dateModified: '2016-01-23T18:29:33.405Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.linkedin.com
   url: 'http://linkedin.com'
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
+url: linkedin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
