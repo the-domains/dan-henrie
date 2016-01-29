@@ -6,23 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Pics of Dan Henrie's project's"
-datePublished: '2016-01-23T16:53:49.115Z'
-dateModified: '2016-01-23T15:30:37.238Z'
+datePublished: '2016-01-29T02:38:46.455Z'
+dateModified: '2016-01-29T02:38:40.741Z'
 title: Project Spotlights
+author: []
+sourcePath: _posts/2016-01-23-project-spotlights.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-01-23-project-spotlights.md
-published: true
 url: project-spotlights/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afbccc08-b4a1-49ed-9fb6-bf2baecb2eec.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba0db00e-c87b-48d8-900e-0d581953aa35.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc5278f4-3a80-4ab9-a0d4-d225580d0806.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb5a8030-e4f1-4f99-aa00-352925dd20d2.jpg)
@@ -54,7 +53,6 @@ _type: WebPage
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5edb4727-5006-44c1-9a5d-770b77a927d3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ef952e0-ab40-4f4b-b723-2b2320075e38.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3197f65f-7fd5-4499-a731-64baec1d2bb8.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20e66092-77d7-4d8a-b1b8-2c70108fef07.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de2a4428-7a14-4033-b949-c13941ea07a0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b222128-89fb-494b-ba37-61a47bca48aa.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f935f85d-d350-4437-a32e-6f312583c656.jpg)
@@ -69,10 +67,11 @@ _type: WebPage
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb24d2d7-2c9b-48d3-9ba7-e114880c577c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a58cba1a-02b7-4532-ae3f-97a718ed4c44.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3abe6b95-a48c-44c4-b5a2-fe92e47636e4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd3d7f9e-f901-4b4f-b887-046b049f4e15.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7227a0f-5924-4796-a01a-84926c75b17f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48f61db5-e5bc-47f0-ae33-875563509e96.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcac3a59-8b59-4658-9c7d-dc75a9c1e471.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8f240dd-ed8a-4333-95c5-fa4122b327cc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1c1b169-dbf8-4718-a6be-d95d5838780f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f29fa2b9-2df4-46f8-b966-743e03e05734.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04c1e162-db20-426d-8dc9-7cb85dfad6f4.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c654a4c5-8fe7-4217-8374-60f88fc48644.JPG)
