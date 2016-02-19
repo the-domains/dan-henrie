@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dan Henrie]]></title>
         <description><![CDATA[Dan Henrie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dan-henrie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 02:25:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 01:45:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dan-henrie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c3798b0-7a1a-4315-bfad-27c48bed5630.JPG">]]></description>
-            <link>undefinedc7a6f686-040a-4b50-8560-0d6c38d39a2f/index.html</link>
+            <link>https://thegrid.ai/dan-henrie/c7a6f686-040a-4b50-8560-0d6c38d39a2f/index.html</link>
             <guid isPermaLink="false">c7a6f686-040a-4b50-8560-0d6c38d39a2f</guid>
-            <pubDate>Thu, 28 Jan 2016 02:23:41 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 01:43:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
