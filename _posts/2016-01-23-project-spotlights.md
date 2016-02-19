@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Pics of Dan Henrie's project's"
-datePublished: '2016-02-17T23:57:08.681Z'
-dateModified: '2016-02-17T23:56:49.318Z'
+datePublished: '2016-02-19T01:49:26.277Z'
+dateModified: '2016-02-19T01:49:25.826Z'
 title: Project Spotlights
 author: []
 sourcePath: _posts/2016-01-23-project-spotlights.md
@@ -43,9 +43,9 @@ _type: WebPage
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/186ecc51-ffe6-4e7e-be63-0b481ab2bec0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa1b5685-d44e-4c09-abbb-660ea00c1098.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ba5be4a-2386-4f40-a1fc-10bd867c3df3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/357882fa-44a6-44e7-9e59-3e0c30d1fce0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/407d753e-b447-4671-8898-f259fd332048.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4de53a-9379-4d87-982d-943719be818e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/357882fa-44a6-44e7-9e59-3e0c30d1fce0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f42cfbd-1cfc-4409-bb4f-f4be08b2a08c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64ec09a9-1e08-44c0-9204-f066c7994ec0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6b63f15-c6b1-4c6d-b17e-0ee9cb988f50.jpg)
