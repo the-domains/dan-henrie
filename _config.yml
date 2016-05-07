@@ -1,7 +1,7 @@
 name: Dan Henrie
 favicon: null
-layout_spectrum: 0.68616
-typography_spectrum: 0.24766
+layout_spectrum: 0.82337
+typography_spectrum: 0.67406
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#afd25a'
     - '#00aee0'
     - '#d7316f'
-  brandStrength: 0.4375
-  lightness: 0.5
-  saturation: 0.3125
-  rhythmicContrast: 0.25
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
