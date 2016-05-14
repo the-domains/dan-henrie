@@ -3,28 +3,27 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: My projects as a Superintendent
-datePublished: '2016-02-18T00:24:03.545Z'
-dateModified: '2016-02-18T00:23:48.631Z'
-title: Projects as a Superintendent
+description: The Regent
+datePublished: '2016-05-14T23:22:10.454Z'
+dateModified: '2016-05-14T23:22:09.255Z'
+title: ''
 author: []
+sourcePath: _posts/2016-02-18-projects-as-a-superintendent.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-18-projects-as-a-superintendent.md
-published: true
+starred: false
 url: projects-as-a-superintendent/index.html
 _type: WebPage
 
 ---
 The Regent
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/333d29e5-4156-43bb-bfb5-f0b0468df419.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29472c10-0563-4888-9276-986bc79d98b8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/403ed470da99aebd9df5ba1bdc05d29be09be87b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a93525e3-21e6-4a50-856e-c6d9beea0dbb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c163f0-7a6f-4a95-8f94-7140bb506ce7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5a4ccd5-b220-4838-bba2-c7e974455b01.jpg)
