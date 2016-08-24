@@ -1,20 +1,4 @@
-name: Dan Henrie
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.19562
-title: Dan Henrie
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73233510-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#199ad9'
@@ -26,4 +10,24 @@ color:
   lightness: 0.6875
   saturation: 0.6875
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-73233510-1
+  facebook: null
+  twitter: null
+name: Dan Henrie
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    id: 8378d070-9fa3-4dfa-9328-c4b0af978ec0
+    type: content
+favicon: null
+title: Dan Henrie
 purpose: []
